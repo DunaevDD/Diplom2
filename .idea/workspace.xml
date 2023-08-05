@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19fe957c-b065-477e-9aed-de92754aeba4" name="Changes" comment="rev1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TG5KAjwdvgLyugDnHkjB0AaD6X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/praktikum/Diplom/Diplom3",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.CreateOrderTest.checkCreateOrderWOInvalidIdIngredients">
+    <configuration name="CreateOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="order" />
+      <option name="MAIN_CLASS_NAME" value="order.CreateOrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest.checkCreateOrderWOIngredients" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="order" />
+      <option name="MAIN_CLASS_NAME" value="order.CreateOrderTest" />
+      <option name="METHOD_NAME" value="checkCreateOrderWOIngredients" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest.checkCreateOrderWOInvalidIdIngredients" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="order" />
+      <option name="MAIN_CLASS_NAME" value="order.CreateOrderTest" />
+      <option name="METHOD_NAME" value="checkCreateOrderWOInvalidIdIngredients" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest.checkCreateOrderWOLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="order" />
+      <option name="MAIN_CLASS_NAME" value="order.CreateOrderTest" />
+      <option name="METHOD_NAME" value="checkCreateOrderWOLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest.checkCreateOrderWithLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Diplom2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="order" />
+      <option name="MAIN_CLASS_NAME" value="order.CreateOrderTest" />
+      <option name="METHOD_NAME" value="checkCreateOrderWithLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Diplom2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Diplom2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreateOrderTest.checkCreateOrderWOInvalidIdIngredients" />
+        <item itemvalue="JUnit.CreateOrderTest.checkCreateOrderWOIngredients" />
+        <item itemvalue="JUnit.CreateOrderTest.checkCreateOrderWithLogin" />
+        <item itemvalue="JUnit.CreateOrderTest.checkCreateOrderWOLogin" />
+        <item itemvalue="JUnit.CreateOrderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19fe957c-b065-477e-9aed-de92754aeba4" name="Changes" comment="" />
+      <created>1690656511442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690656511442</updated>
+    </task>
+    <task id="LOCAL-00001" summary="rev1">
+      <option name="closed" value="true" />
+      <created>1691264918603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691264918603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rev1" />
+    <option name="LAST_COMMIT_MESSAGE" value="rev1" />
+  </component>
+</project>
